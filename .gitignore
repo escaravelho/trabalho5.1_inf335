@@ -3,3 +3,4 @@
 # Eclipse IDE
 .classpath
 .project
+target/*
